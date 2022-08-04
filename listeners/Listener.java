@@ -1,4 +1,4 @@
-package com.yashar.khayemaleali.listenenrs;
+package listenenrs;
 
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.entities.Activity;
