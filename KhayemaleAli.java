@@ -1,5 +1,3 @@
-package com.yashar.khayemaleali;
-
 import com.yashar.khayemaleali.listenenrs.Listener;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
